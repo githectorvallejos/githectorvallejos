@@ -1,5 +1,21 @@
-### Hi there 👋
-
+### Hi, I'm Hector 👋 :technologist:
+```js
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [HTML, CSS, Javascript, Python, Django, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node"],
+      },
+      databases: ["MongoDB", "mySQL", "SQlite"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+};
+```
 <!--
 **githectorvallejos/githectorvallejos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
